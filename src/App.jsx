@@ -1,12 +1,12 @@
-
 import './App.css'
+import Cards from './components/Cards/Cards'
 
 function App() {
 
   
   return (
     <div>
-      <h1>Welocme</h1>
+      <Cards />
     </div>
   )
 }
